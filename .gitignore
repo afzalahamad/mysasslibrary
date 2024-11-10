@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Compiled files (to be ignored)
+dist/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Test coverage
+coverage/
+
+# npm lock files (optional)
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
